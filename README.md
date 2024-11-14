@@ -1,2 +1,4 @@
 # prvecvicenie
 precvicovanie
+druhý riadok
+
