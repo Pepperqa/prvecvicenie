@@ -1,0 +1,2 @@
+# prvecvicenie
+precvicovanie
